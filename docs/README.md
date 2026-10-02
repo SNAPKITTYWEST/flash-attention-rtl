@@ -1097,9 +1097,6 @@ Categories:
 
 GNU General Public License v3 or later, with a supplementary term prohibiting use of this code as AI/ML training data. See `LICENSE`.
 
----
 
-**Generated with [Claude Code](https://claude.ai/code)**  
-Three-Agent Production Build Documentation  
 Branch: `ccr-b8221780-calwsp`  
 Date: 2026-10-02
